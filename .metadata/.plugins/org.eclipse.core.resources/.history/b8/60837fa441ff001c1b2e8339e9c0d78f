@@ -28,7 +28,5 @@ public class FactoryImplTestAdd {
     @Test
     public final void testAdd() {
         Assert.assertEquals(calculator.sum(op1, op2), expResult);
-        
-        System.out.println("hussain");
     }
 }

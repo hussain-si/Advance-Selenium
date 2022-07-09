@@ -69,8 +69,6 @@ public class CalculatorTestSuccessful {
         int result = 10 - 3;
 
         Assert.assertTrue(result == 9);
-        
-        System.out.println("test");
     }
 
 }
